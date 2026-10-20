@@ -2,6 +2,10 @@
 
 **UI header: Student Skill Recommendation System**
 
+**Open the running app:** [student-skill-path.streamlit.app](https://student-skill-path.streamlit.app/)
+
+The GitHub page contains source code. Use the app link above to run the model in your browser. It is hosted on Streamlit Community Cloud and does not require the author\'s computer to remain on. Cloud runtime: Python 3.11; repository branch `main`; entrypoint `app.py`. Free hosting can sleep when idle; reopen the same URL to wake it.
+
 A runnable Python academic demonstration with a blue-and-white Streamlit interface, scikit-learn Decision Tree, KNN, cosine similarity, skill-gap recommendations, curated learning resources, optional local SQLite saving and downloadable plans.
 
 [Desktop preview](docs/screenshots/app-desktop.jpg) · [Phone preview](docs/screenshots/app-mobile.jpg) · [Viva and code guide](docs/PROJECT_GUIDE.md)
@@ -97,7 +101,7 @@ If you use a virtual environment, substitute its Python path. Rerun evaluation b
 ```text
 app.py                       Streamlit screens, widgets, downloads
 assets/style.css             Responsive blue-and-white styling
-.streamlit/config.toml       Theme, localhost binding, telemetry preference
+.streamlit/config.toml       Theme, cloud-compatible server settings, telemetry preference
 src/catalog.py               Education/stream options, paths and prerequisites
 src/profiles.py              Input validation and readable feature conversion
 src/engine.py                Decision Tree, KNN, cosine ranking and skill gaps
@@ -120,7 +124,7 @@ local_data/plans.sqlite3     Created only at runtime; excluded from the ZIP
 
 No profile is automatically added to training data. Save writes the profile and result to an unencrypted SQLite file in `local_data/`. A random server-side session token restricts the Saved plans screen to plans from the current Streamlit browser session. It is **not account authentication**. Closing/reconnecting a browser may create a new session; previous records stay on disk but are no longer available through the new session's Saved plans screen. Download a copy for durable access. Delete the current session's records with the button on Saved plans; after stopping the app, remove `local_data/plans.sqlite3` to erase all stored plans. Do not store sensitive details in goal text.
 
-The supplied configuration binds to localhost for a local classroom demonstration. Shared hosting would require authentication, retention controls, encrypted storage, reviewed privacy practices and an independently validated dataset. No public deployment is included.
+The public cloud deployment is an academic demo using synthetic training data. It has no account authentication; avoid entering sensitive information. SQLite files on free cloud hosting are not durable storage and can disappear on a rebuild or restart, so download plans you want to keep. A production service would require authentication, retention controls, encrypted storage, reviewed privacy practices and an independently validated dataset.
 
 ## Known limits and next work
 

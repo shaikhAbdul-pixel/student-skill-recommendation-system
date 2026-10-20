@@ -7,3 +7,7 @@ font = "sans serif"
 
 [browser]
 gatherUsageStats = false
+
+[server]
+# Production hosting does not need development file watchers.
+fileWatcherType = "none"
