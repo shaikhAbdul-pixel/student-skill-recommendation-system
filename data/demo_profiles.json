@@ -1,0 +1,6743 @@
+[
+  {
+    "id": "DEMO-0001",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [],
+    "interests": [
+      "Coding",
+      "Design",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0002",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Management",
+    "skills": [],
+    "interests": [
+      "Coding",
+      "Websites"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0003",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Science",
+    "skills": [
+      "HTML & CSS",
+      "Pandas",
+      "Programming logic"
+    ],
+    "interests": [
+      "Coding",
+      "Technology"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0004",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Computer basics",
+      "Git",
+      "HTML & CSS"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving",
+      "Websites"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0005",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Computer basics",
+      "Programming logic"
+    ],
+    "interests": [
+      "Coding"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0006",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Machines",
+      "Problem solving"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0007",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "JavaScript"
+    ],
+    "interests": [
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0008",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "JavaScript"
+    ],
+    "interests": [
+      "Problem solving",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0009",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Git",
+      "JavaScript"
+    ],
+    "interests": [
+      "Websites"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0010",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Management",
+    "skills": [
+      "JavaScript",
+      "SEO"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0011",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Coding",
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0012",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Computer basics",
+      "HTML & CSS",
+      "Programming logic"
+    ],
+    "interests": [
+      "Problem solving"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0013",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Science",
+    "skills": [],
+    "interests": [
+      "Coding",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0014",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Coding"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0015",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "Programming logic"
+    ],
+    "interests": [
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0016",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Coding",
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0017",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "Computer basics",
+      "Git",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0018",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Computer basics",
+      "SEO"
+    ],
+    "interests": [
+      "Coding",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0019",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Engineering drawing"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0020",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Accessibility"
+    ],
+    "interests": [
+      "Coding",
+      "Websites"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0021",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Accessibility"
+    ],
+    "interests": [
+      "Coding",
+      "Technology"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0022",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Business analysis",
+      "HTML & CSS",
+      "JavaScript",
+      "Programming logic"
+    ],
+    "interests": [
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0023",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Science",
+    "skills": [
+      "Computer basics"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0024",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Leadership",
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0025",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [
+      "Computer basics",
+      "Git",
+      "HTML & CSS"
+    ],
+    "interests": [
+      "Coding",
+      "Mathematics",
+      "Problem solving",
+      "Websites"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0026",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0027",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Computer basics",
+      "JavaScript"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0028",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "JavaScript"
+    ],
+    "interests": [
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0029",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Computer basics"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0030",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Git",
+      "Programming logic"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0031",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Management",
+    "skills": [
+      "Circuit basics",
+      "JavaScript"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0032",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Management",
+    "skills": [
+      "Pandas",
+      "Python"
+    ],
+    "interests": [
+      "Websites"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0033",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Computer basics",
+      "Programming logic",
+      "Python",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Data",
+      "Problem solving"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0034",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Git",
+      "HTML & CSS"
+    ],
+    "interests": [
+      "Coding",
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0035",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Computer basics",
+      "JavaScript"
+    ],
+    "interests": [
+      "Problem solving",
+      "Websites"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0036",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "HTML & CSS",
+      "SEO"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0037",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Problem solving",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0038",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "HTML & CSS",
+      "JavaScript",
+      "Programming logic"
+    ],
+    "interests": [
+      "Problem solving",
+      "Storytelling",
+      "Technology"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0039",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Git"
+    ],
+    "interests": [
+      "Problem solving",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0040",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Budgeting",
+      "Programming logic"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0041",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [
+      "Accessibility",
+      "JavaScript",
+      "Programming logic",
+      "Python"
+    ],
+    "interests": [
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0042",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Leadership",
+      "Technology"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0043",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "HTML & CSS",
+      "Programming logic",
+      "Python"
+    ],
+    "interests": [
+      "Problem solving",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0044",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Content writing",
+      "Git",
+      "HTML & CSS"
+    ],
+    "interests": [
+      "Coding",
+      "Machines",
+      "Problem solving"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0045",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Computer basics",
+      "Programming logic",
+      "Python"
+    ],
+    "interests": [
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0046",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "JavaScript",
+      "Python"
+    ],
+    "interests": [
+      "Coding",
+      "Technology"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0047",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Python"
+    ],
+    "interests": [
+      "Coding",
+      "Social media",
+      "Technology"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0048",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "Computer basics"
+    ],
+    "interests": [
+      "Coding",
+      "Teaching",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Become a software developer",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0049",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Computer basics",
+      "Git",
+      "JavaScript"
+    ],
+    "interests": [
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0050",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Computer basics"
+    ],
+    "interests": [
+      "Coding"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0051",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [
+      "Git",
+      "Programming logic"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0052",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Computer basics",
+      "Programming logic",
+      "Python"
+    ],
+    "interests": [
+      "Coding",
+      "Mathematics",
+      "Problem solving"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0053",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Engineering",
+    "skills": [
+      "Git",
+      "Python"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0054",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "JavaScript",
+      "Python"
+    ],
+    "interests": [
+      "Coding",
+      "Technology"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0055",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "HTML & CSS",
+      "Programming logic"
+    ],
+    "interests": [
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0056",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "JavaScript",
+      "Programming logic",
+      "Python"
+    ],
+    "interests": [
+      "Coding",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0057",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Git",
+      "Programming logic",
+      "Python"
+    ],
+    "interests": [
+      "Coding",
+      "Storytelling"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0058",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Engineering",
+    "skills": [
+      "Git",
+      "JavaScript"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "goal": "Create useful software",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0059",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Computer basics"
+    ],
+    "interests": [
+      "Machines",
+      "Problem solving",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0060",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Digital teaching tools",
+      "HTML & CSS"
+    ],
+    "interests": [
+      "Problem solving",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Software Development"
+  },
+  {
+    "id": "DEMO-0061",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Pandas",
+      "Python",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Data",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0062",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Data",
+      "Problem solving"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0063",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Data visualisation"
+    ],
+    "interests": [
+      "Data",
+      "Problem solving",
+      "Research",
+      "Storytelling"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0064",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Data",
+      "Research"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0065",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Coding",
+      "Mathematics"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0066",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0067",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Marketing basics",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Mathematics"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0068",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Data visualisation",
+      "SQL",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Mathematics",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0069",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "Data visualisation",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Data"
+    ],
+    "goal": "Manage a business",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0070",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Pandas",
+      "Python",
+      "SQL"
+    ],
+    "interests": [
+      "Mathematics",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0071",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "General / Not decided",
+    "skills": [
+      "Pandas",
+      "Python"
+    ],
+    "interests": [
+      "Coding",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0072",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Other",
+    "skills": [
+      "Computer basics",
+      "Pandas",
+      "SQL",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Data",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0073",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Science",
+    "skills": [
+      "Accessibility",
+      "Pandas"
+    ],
+    "interests": [
+      "Data"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0074",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "Data visualisation",
+      "Pandas",
+      "Python"
+    ],
+    "interests": [
+      "Data",
+      "Research"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0075",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Management",
+    "skills": [
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Problem solving",
+      "Websites"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0076",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Management",
+    "skills": [
+      "Data visualisation",
+      "SQL",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0077",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Management",
+    "skills": [
+      "SQL",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Mathematics"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0078",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [],
+    "interests": [
+      "Data",
+      "Mathematics",
+      "Problem solving"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0079",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Problem solving"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0080",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [
+      "Data visualisation",
+      "Marketing analytics",
+      "Pandas",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics",
+      "Research"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0081",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [
+      "Business analysis"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics",
+      "Problem solving"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0082",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Data visualisation",
+      "SQL",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Coding",
+      "Data",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0083",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Problem solving"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0084",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "SQL",
+      "Spreadsheets",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Mathematics",
+      "Problem solving",
+      "Research",
+      "Social media"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0085",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Data",
+      "Mathematics",
+      "Problem solving"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0086",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [
+      "Budgeting",
+      "Pandas"
+    ],
+    "interests": [
+      "Data",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0087",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Engineering",
+    "skills": [
+      "Computer basics",
+      "Pandas",
+      "SQL"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0088",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Pandas",
+      "Python",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Research"
+    ],
+    "goal": "Create learning materials",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0089",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Mathematics",
+      "Problem solving",
+      "Research",
+      "Social media"
+    ],
+    "goal": "Create visual designs",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0090",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Data visualisation",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Art",
+      "Data",
+      "Research"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0091",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [
+      "Computer basics",
+      "SQL",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Data",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0092",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Data",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0093",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Engineering",
+    "skills": [
+      "Programming logic",
+      "Python"
+    ],
+    "interests": [
+      "Mathematics",
+      "Problem solving"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0094",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Pandas",
+      "Spreadsheets",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0095",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Python"
+    ],
+    "interests": [
+      "Mathematics"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0096",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Research"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0097",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Data visualisation",
+      "Pandas",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Data",
+      "Design",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0098",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics",
+      "Research"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0099",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Data",
+      "Design",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0100",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "SQL"
+    ],
+    "interests": [
+      "Data",
+      "Research",
+      "Writing"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0101",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [
+      "Python",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0102",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Management",
+    "skills": [
+      "Data visualisation",
+      "Pandas"
+    ],
+    "interests": [
+      "Data",
+      "Research"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0103",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Data visualisation",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0104",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Data visualisation",
+      "Pandas",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics",
+      "Research"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0105",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Data visualisation"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Research"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0106",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [
+      "Python"
+    ],
+    "interests": [
+      "Mathematics",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0107",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Pandas",
+      "SQL"
+    ],
+    "interests": [
+      "Data"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0108",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "General / Not decided",
+    "skills": [
+      "Data visualisation",
+      "Pandas"
+    ],
+    "interests": [
+      "Research"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0109",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Management",
+    "skills": [
+      "Python"
+    ],
+    "interests": [
+      "Data",
+      "Finance"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0110",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "SQL",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Mathematics",
+      "Research"
+    ],
+    "goal": "Become a software developer",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0111",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [
+      "Mathematics foundations",
+      "Python",
+      "SQL",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Mathematics",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Work in business finance",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0112",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Management",
+    "skills": [
+      "SQL"
+    ],
+    "interests": [
+      "Problem solving"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0113",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Mathematics",
+      "Problem solving"
+    ],
+    "goal": "Work in business finance",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0114",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Statistics basics"
+    ],
+    "interests": [
+      "Data",
+      "Machines",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0115",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Business communication",
+      "Pandas",
+      "Python"
+    ],
+    "interests": [
+      "Mathematics",
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0116",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [
+      "Pandas",
+      "Programming logic",
+      "SQL"
+    ],
+    "interests": [
+      "Research"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0117",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Python"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics",
+      "Problem solving"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0118",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Data visualisation",
+      "Pandas",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Data",
+      "Problem solving",
+      "Research",
+      "Teaching"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0119",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Pandas",
+      "Python",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Data",
+      "Mathematics",
+      "Research"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0120",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Data visualisation",
+      "SEO",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Data",
+      "Problem solving",
+      "Research",
+      "Social media"
+    ],
+    "goal": "Analyse data and create reports",
+    "track": "Data Analytics"
+  },
+  {
+    "id": "DEMO-0121",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [
+      "Accessibility",
+      "Marketing analytics",
+      "User research",
+      "Visual design"
+    ],
+    "interests": [
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0122",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "Accessibility"
+    ],
+    "interests": [
+      "Art",
+      "Design",
+      "Websites"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0123",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Accessibility",
+      "Figma",
+      "Prototyping"
+    ],
+    "interests": [
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0124",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Figma",
+      "Prototyping",
+      "User research"
+    ],
+    "interests": [
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0125",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [
+      "Accessibility",
+      "Visual design"
+    ],
+    "interests": [
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0126",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [],
+    "interests": [
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0127",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Prototyping"
+    ],
+    "interests": [
+      "Art",
+      "Design"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0128",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "General / Not decided",
+    "skills": [
+      "Prototyping"
+    ],
+    "interests": [
+      "Art",
+      "Storytelling",
+      "Technology",
+      "Websites"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0129",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Art",
+      "Data",
+      "Design",
+      "Storytelling"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0130",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "CAD basics",
+      "Prototyping",
+      "User research"
+    ],
+    "interests": [
+      "Art",
+      "Design",
+      "Websites"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0131",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [
+      "Figma",
+      "Visual design"
+    ],
+    "interests": [
+      "Art",
+      "Design",
+      "Social media",
+      "Websites"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0132",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "Prototyping"
+    ],
+    "interests": [
+      "Art",
+      "Design",
+      "Problem solving"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0133",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [],
+    "interests": [
+      "Art",
+      "Design",
+      "Finance",
+      "Storytelling"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0134",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Figma"
+    ],
+    "interests": [
+      "Art",
+      "Websites"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0135",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Figma",
+      "Prototyping",
+      "User research"
+    ],
+    "interests": [
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0136",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Accessibility"
+    ],
+    "interests": [
+      "Art",
+      "Design"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0137",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Accessibility",
+      "Prototyping"
+    ],
+    "interests": [
+      "Art",
+      "Business",
+      "Design",
+      "Storytelling"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0138",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [
+      "Accessibility"
+    ],
+    "interests": [
+      "Art",
+      "Design",
+      "Storytelling"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0139",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Design",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0140",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Management",
+    "skills": [
+      "Digital teaching tools",
+      "Visual design"
+    ],
+    "interests": [
+      "Design",
+      "Machines",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0141",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [
+      "Business communication",
+      "Prototyping",
+      "User research"
+    ],
+    "interests": [
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0142",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "Figma",
+      "User research"
+    ],
+    "interests": [
+      "Storytelling",
+      "Websites",
+      "Writing"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0143",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Engineering",
+    "skills": [
+      "User research"
+    ],
+    "interests": [
+      "Art"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0144",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Accessibility",
+      "Prototyping",
+      "User research"
+    ],
+    "interests": [
+      "Art",
+      "Social media"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0145",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [
+      "Prototyping"
+    ],
+    "interests": [
+      "Art",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0146",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Accessibility",
+      "Figma"
+    ],
+    "interests": [
+      "Design",
+      "Leadership"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0147",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Engineering",
+    "skills": [
+      "User research"
+    ],
+    "interests": [
+      "Art",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0148",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "Accessibility"
+    ],
+    "interests": [
+      "Art",
+      "Machines"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0149",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "Prototyping",
+      "Visual design"
+    ],
+    "interests": [
+      "Design",
+      "Social media",
+      "Websites"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0150",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [
+      "Prototyping",
+      "User research"
+    ],
+    "interests": [
+      "Design",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0151",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Management",
+    "skills": [
+      "Prototyping",
+      "Visual design"
+    ],
+    "interests": [
+      "Websites"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0152",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Accessibility",
+      "Prototyping",
+      "User research"
+    ],
+    "interests": [
+      "Art",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0153",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "Statistics basics"
+    ],
+    "interests": [
+      "Art",
+      "Design"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0154",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Business analysis",
+      "Figma",
+      "Prototyping"
+    ],
+    "interests": [
+      "Machines",
+      "Storytelling"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0155",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Accessibility",
+      "Circuit basics",
+      "Visual design"
+    ],
+    "interests": [
+      "Storytelling"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0156",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [
+      "Accessibility",
+      "Pandas",
+      "Prototyping",
+      "Visual design"
+    ],
+    "interests": [
+      "Design"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0157",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Accessibility",
+      "Prototyping"
+    ],
+    "interests": [
+      "Design",
+      "Mathematics",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0158",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Storytelling"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0159",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Accessibility",
+      "User research",
+      "Visual design"
+    ],
+    "interests": [
+      "Design",
+      "Websites"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0160",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Prototyping"
+    ],
+    "interests": [
+      "Art",
+      "Storytelling"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0161",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [
+      "Accessibility",
+      "Prototyping"
+    ],
+    "interests": [
+      "Art",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0162",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Accessibility",
+      "Figma",
+      "Marketing basics"
+    ],
+    "interests": [
+      "Design",
+      "Leadership",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0163",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Figma",
+      "Visual design"
+    ],
+    "interests": [
+      "Design",
+      "Storytelling"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0164",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Art",
+      "Design"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0165",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "User research",
+      "Visual design"
+    ],
+    "interests": [
+      "Websites"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0166",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Prototyping",
+      "Visual design"
+    ],
+    "interests": [
+      "Art",
+      "Design",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Work in business finance",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0167",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Design",
+      "Storytelling"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0168",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "General / Not decided",
+    "skills": [
+      "Figma",
+      "Prototyping",
+      "User research"
+    ],
+    "interests": [
+      "Art",
+      "Design"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0169",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "Accessibility",
+      "Communication",
+      "Prototyping",
+      "User research"
+    ],
+    "interests": [
+      "Art",
+      "Design",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0170",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Accessibility",
+      "Python",
+      "User research"
+    ],
+    "interests": [
+      "Art"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0171",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Visual design"
+    ],
+    "interests": [
+      "Art",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0172",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Art",
+      "Design",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0173",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "Computer basics",
+      "Figma",
+      "User research"
+    ],
+    "interests": [
+      "Art",
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0174",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Accessibility",
+      "User research",
+      "Visual design"
+    ],
+    "interests": [
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0175",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Accessibility"
+    ],
+    "interests": [
+      "Art",
+      "Storytelling",
+      "Websites",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0176",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "General / Not decided",
+    "skills": [
+      "Accessibility",
+      "Prototyping",
+      "Visual design"
+    ],
+    "interests": [
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "Create visual designs",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0177",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Accessibility",
+      "SEO"
+    ],
+    "interests": [
+      "Art",
+      "Design"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0178",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "User research"
+    ],
+    "interests": [
+      "Storytelling"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0179",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Figma",
+      "Python"
+    ],
+    "interests": [
+      "Design",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0180",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [
+      "Accessibility",
+      "Presentation skills",
+      "Prototyping",
+      "Visual design"
+    ],
+    "interests": [
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "",
+    "track": "Design & Creativity"
+  },
+  {
+    "id": "DEMO-0181",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "General / Not decided",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Coding",
+      "Social media",
+      "Storytelling"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0182",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Engineering",
+    "skills": [
+      "Marketing analytics"
+    ],
+    "interests": [
+      "Social media",
+      "Storytelling"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0183",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Work in business finance",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0184",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Marketing analytics",
+      "SEO",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Social media",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0185",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Content writing",
+      "Marketing basics",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Design",
+      "Writing"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0186",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "General / Not decided",
+    "skills": [],
+    "interests": [
+      "Storytelling"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0187",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Pandas",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Social media",
+      "Storytelling"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0188",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Social media",
+      "Writing"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0189",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Management",
+    "skills": [
+      "Content writing",
+      "Marketing basics",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Storytelling",
+      "Technology",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0190",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Content writing",
+      "Marketing basics",
+      "SEO"
+    ],
+    "interests": [
+      "Writing"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0191",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [
+      "Marketing basics",
+      "SEO",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0192",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Social media",
+      "Storytelling"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0193",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Social media"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0194",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Marketing analytics",
+      "SEO"
+    ],
+    "interests": [
+      "Storytelling",
+      "Websites"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0195",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Marketing analytics",
+      "SEO"
+    ],
+    "interests": [
+      "Websites",
+      "Writing"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0196",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "General / Not decided",
+    "skills": [],
+    "interests": [
+      "Business"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0197",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Management",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Storytelling"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0198",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "General / Not decided",
+    "skills": [
+      "Content writing",
+      "Marketing analytics"
+    ],
+    "interests": [
+      "Business",
+      "Social media",
+      "Storytelling",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0199",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Management",
+    "skills": [
+      "Content writing",
+      "Marketing analytics",
+      "SEO"
+    ],
+    "interests": [
+      "Social media",
+      "Storytelling"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0200",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Content writing",
+      "Marketing analytics"
+    ],
+    "interests": [
+      "Business",
+      "Coding",
+      "Storytelling"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0201",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Marketing analytics",
+      "Marketing basics",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Social media",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0202",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "Content writing"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Social media"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0203",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Content writing",
+      "Digital teaching tools",
+      "Marketing analytics",
+      "SEO"
+    ],
+    "interests": [
+      "Mathematics",
+      "Social media",
+      "Storytelling"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0204",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Content writing",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0205",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Marketing basics"
+    ],
+    "interests": [
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0206",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Marketing basics",
+      "SEO"
+    ],
+    "interests": [
+      "Business",
+      "Coding",
+      "Writing"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0207",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "SEO",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Social media",
+      "Writing"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0208",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Engineering",
+    "skills": [
+      "SEO",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Social media",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0209",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Marketing analytics",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Social media",
+      "Writing"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0210",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Management",
+    "skills": [
+      "SEO"
+    ],
+    "interests": [
+      "Business",
+      "Mathematics",
+      "Social media",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0211",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [
+      "Content writing",
+      "Marketing analytics",
+      "Marketing basics"
+    ],
+    "interests": [
+      "Business",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0212",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Content writing",
+      "JavaScript",
+      "SEO",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0213",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [
+      "Content writing",
+      "Marketing basics",
+      "SEO"
+    ],
+    "interests": [
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0214",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Content writing",
+      "SEO",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0215",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Marketing basics"
+    ],
+    "interests": [
+      "Social media",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0216",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Storytelling"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0217",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Machines",
+      "Social media"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0218",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Science",
+    "skills": [
+      "Marketing analytics",
+      "SEO",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Social media",
+      "Writing"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0219",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0220",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Marketing analytics",
+      "Marketing basics",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Design",
+      "Writing"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0221",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [],
+    "interests": [
+      "Social media",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0222",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Accounting basics",
+      "Content writing",
+      "Marketing analytics",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0223",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "General / Not decided",
+    "skills": [
+      "Content writing",
+      "Marketing analytics",
+      "Programming logic",
+      "SEO"
+    ],
+    "interests": [
+      "Business",
+      "Teaching"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0224",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "SEO"
+    ],
+    "interests": [
+      "Social media",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0225",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Content writing",
+      "Marketing analytics",
+      "Marketing basics"
+    ],
+    "interests": [
+      "Research",
+      "Social media",
+      "Storytelling"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0226",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Research literacy"
+    ],
+    "interests": [
+      "Business",
+      "Machines",
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0227",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Social media",
+      "Writing"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0228",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Social media"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0229",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "Content writing",
+      "SEO",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Social media",
+      "Teaching"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0230",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Content writing",
+      "Marketing analytics",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Writing"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0231",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [
+      "Marketing basics",
+      "Programming logic",
+      "SEO"
+    ],
+    "interests": [
+      "Business",
+      "Writing"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0232",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Mathematics",
+      "Social media"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0233",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Content writing",
+      "Marketing analytics",
+      "SEO"
+    ],
+    "interests": [
+      "Writing"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0234",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Data",
+      "Writing"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0235",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Social media",
+      "Writing"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0236",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Management",
+    "skills": [
+      "Content writing"
+    ],
+    "interests": [
+      "Business",
+      "Social media",
+      "Storytelling"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0237",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Marketing analytics"
+    ],
+    "interests": [
+      "Business"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0238",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Websites"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0239",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Storytelling"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0240",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Social media strategy"
+    ],
+    "interests": [
+      "Storytelling",
+      "Writing"
+    ],
+    "goal": "Grow a brand online",
+    "track": "Digital Marketing"
+  },
+  {
+    "id": "DEMO-0241",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Management",
+    "skills": [
+      "Accounting basics",
+      "Budgeting",
+      "Business analysis"
+    ],
+    "interests": [
+      "Business",
+      "Finance"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0242",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Business communication"
+    ],
+    "interests": [
+      "Business",
+      "Finance",
+      "Leadership",
+      "Websites"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0243",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Finance",
+      "Mathematics",
+      "Storytelling"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0244",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Presentation skills"
+    ],
+    "interests": [
+      "Business",
+      "Finance",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0245",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Management",
+    "skills": [],
+    "interests": [
+      "Mathematics"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0246",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Budgeting",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Finance"
+    ],
+    "goal": "Find patterns in datasets",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0247",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Art",
+      "Business",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0248",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "General / Not decided",
+    "skills": [
+      "Accounting basics",
+      "Business analysis",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Leadership"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0249",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Accounting basics",
+      "Business analysis",
+      "Social media strategy"
+    ],
+    "interests": [
+      "Business",
+      "Finance",
+      "Leadership"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0250",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Business analysis",
+      "Business communication",
+      "Research literacy",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Finance",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0251",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [
+      "Business communication",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Mathematics",
+      "Social media"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0252",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Management",
+    "skills": [
+      "Accounting basics",
+      "Budgeting",
+      "Business analysis",
+      "Circuit basics"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0253",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Science",
+    "skills": [
+      "Accounting basics",
+      "Budgeting"
+    ],
+    "interests": [
+      "Business",
+      "Finance",
+      "Leadership",
+      "Machines"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0254",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Budgeting",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics",
+      "Teaching"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0255",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0256",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Electronics",
+      "Finance",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0257",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Business communication",
+      "Python"
+    ],
+    "interests": [
+      "Business",
+      "Finance"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0258",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Engineering",
+    "skills": [
+      "Budgeting"
+    ],
+    "interests": [
+      "Business"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0259",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Budgeting",
+      "Business analysis",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Leadership"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0260",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Finance",
+      "Mathematics"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0261",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "General / Not decided",
+    "skills": [
+      "Accounting basics",
+      "Business analysis",
+      "Business communication"
+    ],
+    "interests": [
+      "Business",
+      "Design",
+      "Leadership"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0262",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Accounting basics",
+      "Business analysis"
+    ],
+    "interests": [
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0263",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "General / Not decided",
+    "skills": [
+      "Business communication",
+      "HTML & CSS"
+    ],
+    "interests": [
+      "Business",
+      "Finance"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0264",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Business analysis",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Finance",
+      "Leadership",
+      "Problem solving"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0265",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Git"
+    ],
+    "interests": [
+      "Business",
+      "Mathematics"
+    ],
+    "goal": "Create social media campaigns",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0266",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [
+      "Business analysis",
+      "Content writing",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Electronics",
+      "Finance"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0267",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Other",
+    "skills": [
+      "Business communication"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics",
+      "Problem solving"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0268",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Business communication"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0269",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Business analysis",
+      "Statistics basics"
+    ],
+    "interests": [
+      "Finance"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0270",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [
+      "Budgeting",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0271",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Management",
+    "skills": [
+      "Budgeting",
+      "Business analysis",
+      "Business communication"
+    ],
+    "interests": [
+      "Business",
+      "Finance",
+      "Leadership"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0272",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Finance"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0273",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [],
+    "interests": [
+      "Coding",
+      "Leadership"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0274",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Business analysis",
+      "Business communication"
+    ],
+    "interests": [
+      "Data",
+      "Finance",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0275",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Business analysis",
+      "Business communication",
+      "CAD basics",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0276",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Management",
+    "skills": [],
+    "interests": [
+      "Finance",
+      "Mathematics"
+    ],
+    "goal": "Create learning materials",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0277",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Other",
+    "skills": [
+      "Accounting basics"
+    ],
+    "interests": [
+      "Business",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0278",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Circuit basics"
+    ],
+    "interests": [
+      "Finance",
+      "Leadership",
+      "Machines"
+    ],
+    "goal": "Create visual designs",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0279",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Accounting basics",
+      "Budgeting",
+      "Business analysis"
+    ],
+    "interests": [
+      "Business"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0280",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Business communication"
+    ],
+    "interests": [
+      "Finance",
+      "Teaching"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0281",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Accounting basics",
+      "Python",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Design",
+      "Leadership"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0282",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Data",
+      "Finance",
+      "Leadership"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0283",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Python"
+    ],
+    "interests": [
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0284",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Accounting basics",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Finance"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0285",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Accounting basics",
+      "Budgeting"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics",
+      "Teaching"
+    ],
+    "goal": "Become a digital marketer",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0286",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Finance",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0287",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Social media strategy",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0288",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "Accounting basics"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0289",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Finance",
+      "Leadership"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0290",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Budgeting",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Finance"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0291",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Budgeting",
+      "Business analysis"
+    ],
+    "interests": [
+      "Business",
+      "Finance",
+      "Mathematics"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0292",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Accounting basics",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics",
+      "Research"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0293",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Mathematics"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0294",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Accounting basics",
+      "Budgeting"
+    ],
+    "interests": [
+      "Business"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0295",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Accounting basics",
+      "Business analysis"
+    ],
+    "interests": [
+      "Leadership"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0296",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Accounting basics"
+    ],
+    "interests": [
+      "Mathematics"
+    ],
+    "goal": "Work in business finance",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0297",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Budgeting",
+      "Business analysis",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Finance",
+      "Mathematics"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0298",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "Business analysis",
+      "Business communication",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Finance",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0299",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Business analysis",
+      "Spreadsheets"
+    ],
+    "interests": [
+      "Business",
+      "Electronics",
+      "Finance",
+      "Leadership"
+    ],
+    "goal": "Manage a business",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0300",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Budgeting",
+      "Business analysis",
+      "Business communication"
+    ],
+    "interests": [
+      "Business",
+      "Leadership"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Business & Finance"
+  },
+  {
+    "id": "DEMO-0301",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Engineering drawing"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0302",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Engineering",
+    "skills": [
+      "Circuit basics",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0303",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Circuit basics",
+      "Engineering drawing",
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0304",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Art",
+      "Machines"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0305",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [],
+    "interests": [
+      "Electronics",
+      "Technology"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0306",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Engineering drawing"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0307",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0308",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [
+      "CAD basics",
+      "Engineering drawing"
+    ],
+    "interests": [
+      "Finance",
+      "Mathematics"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0309",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "CAD basics",
+      "Engineering drawing",
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Machines",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0310",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [],
+    "interests": [
+      "Electronics"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0311",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Electronics",
+      "Mathematics"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0312",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Circuit basics"
+    ],
+    "interests": [
+      "Design",
+      "Electronics"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0313",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [
+      "CAD basics",
+      "Circuit basics",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Social media",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0314",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "CAD basics",
+      "Mathematics foundations",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0315",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [],
+    "interests": [
+      "Mathematics"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0316",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [
+      "CAD basics",
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Machines"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0317",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Engineering",
+    "skills": [
+      "Engineering drawing",
+      "Mathematics foundations",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0318",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Machines",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0319",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Research literacy"
+    ],
+    "interests": [
+      "Machines",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0320",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "CAD basics",
+      "Circuit basics",
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0321",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Git"
+    ],
+    "interests": [
+      "Machines",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0322",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Management",
+    "skills": [
+      "Circuit basics",
+      "Communication",
+      "Mathematics foundations",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0323",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Business analysis",
+      "CAD basics",
+      "Engineering drawing",
+      "Python"
+    ],
+    "interests": [
+      "Data",
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0324",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0325",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Engineering drawing",
+      "Python",
+      "User research"
+    ],
+    "interests": [
+      "Machines",
+      "Mathematics",
+      "Problem solving"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0326",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Circuit basics",
+      "Engineering drawing"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0327",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "CAD basics",
+      "Circuit basics",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0328",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Design",
+      "Electronics"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0329",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Engineering drawing",
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0330",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Mathematics foundations",
+      "Python"
+    ],
+    "interests": [
+      "Machines",
+      "Technology"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0331",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Circuit basics"
+    ],
+    "interests": [
+      "Teaching",
+      "Technology"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0332",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Digital teaching tools"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0333",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0334",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Circuit basics",
+      "Mathematics foundations",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0335",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "CAD basics",
+      "Circuit basics",
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Mathematics"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0336",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [
+      "CAD basics",
+      "Engineering drawing",
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Research",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0337",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Engineering drawing",
+      "Mathematics foundations",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0338",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Circuit basics",
+      "Engineering drawing",
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Electronics",
+      "Finance",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0339",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Business analysis"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Mathematics"
+    ],
+    "goal": "Design user friendly products",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0340",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [
+      "Circuit basics",
+      "Mathematics foundations",
+      "Python"
+    ],
+    "interests": [
+      "Machines",
+      "Mathematics"
+    ],
+    "goal": "Create useful software",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0341",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Science",
+    "skills": [],
+    "interests": [
+      "Electronics",
+      "Websites"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0342",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Engineering drawing"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0343",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Science",
+    "skills": [
+      "Mathematics foundations",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0344",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [
+      "Engineering drawing",
+      "JavaScript"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0345",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Mathematics"
+    ],
+    "goal": "Become a software developer",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0346",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Electronics",
+      "Technology"
+    ],
+    "goal": "Become a data analyst",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0347",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Circuit basics",
+      "Mathematics foundations",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0348",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Science",
+    "skills": [
+      "CAD basics",
+      "Engineering drawing",
+      "Python"
+    ],
+    "interests": [
+      "Machines",
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0349",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Circuit basics"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Mathematics"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0350",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Other",
+    "skills": [
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "Build electronic projects",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0351",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "General / Not decided",
+    "skills": [
+      "Engineering drawing",
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics"
+    ],
+    "goal": "Create visual designs",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0352",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "CAD basics"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0353",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0354",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Machines",
+      "Mathematics"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0355",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Engineering drawing",
+      "Python"
+    ],
+    "interests": [
+      "Coding",
+      "Machines",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "Explore engineering design",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0356",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Mathematics foundations"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0357",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Arts / Humanities",
+    "skills": [],
+    "interests": [
+      "Electronics",
+      "Problem solving",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0358",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [
+      "CAD basics",
+      "Content writing"
+    ],
+    "interests": [
+      "Electronics",
+      "Mathematics"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0359",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "Python"
+    ],
+    "interests": [
+      "Electronics",
+      "Machines",
+      "Technology"
+    ],
+    "goal": "",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0360",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "CAD basics"
+    ],
+    "interests": [
+      "Machines",
+      "Technology"
+    ],
+    "goal": "Understand machines and circuits",
+    "track": "Engineering & Technology"
+  },
+  {
+    "id": "DEMO-0361",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "User research"
+    ],
+    "interests": [
+      "Data",
+      "Research",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0362",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Computer basics"
+    ],
+    "interests": [
+      "Leadership",
+      "Teaching"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0363",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Science",
+    "skills": [
+      "Digital teaching tools",
+      "Lesson planning",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Research",
+      "Writing"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0364",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Communication",
+      "Presentation skills",
+      "Research literacy"
+    ],
+    "interests": [
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0365",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Management",
+    "skills": [
+      "JavaScript"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0366",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Lesson planning",
+      "Presentation skills",
+      "Research literacy"
+    ],
+    "interests": [
+      "Research",
+      "Teaching"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0367",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "General / Not decided",
+    "skills": [
+      "Communication",
+      "Lesson planning",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Leadership",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0368",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "CAD basics",
+      "Communication",
+      "Digital teaching tools",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Teaching"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0369",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Lesson planning"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Teaching"
+    ],
+    "goal": "",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0370",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Management",
+    "skills": [
+      "Communication",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Leadership",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Become a UI UX designer",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0371",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Coding",
+      "Leadership",
+      "Writing"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0372",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Communication",
+      "Digital teaching tools",
+      "Presentation skills",
+      "User research"
+    ],
+    "interests": [
+      "Writing"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0373",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Other",
+    "skills": [
+      "Communication",
+      "Digital teaching tools",
+      "Lesson planning"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0374",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "General / Not decided",
+    "skills": [
+      "Digital teaching tools",
+      "Lesson planning",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Coding",
+      "Research"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0375",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [],
+    "interests": [
+      "Leadership",
+      "Problem solving"
+    ],
+    "goal": "Create visual designs",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0376",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Lesson planning"
+    ],
+    "interests": [
+      "Leadership",
+      "Writing"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0377",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Other",
+    "skills": [
+      "CAD basics",
+      "Communication",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0378",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Digital teaching tools",
+      "Presentation skills",
+      "Research literacy",
+      "User research"
+    ],
+    "interests": [
+      "Problem solving",
+      "Research"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0379",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Commerce",
+    "skills": [],
+    "interests": [
+      "Research"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0380",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Communication",
+      "Digital teaching tools",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Finance",
+      "Research",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0381",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Management",
+    "skills": [
+      "Digital teaching tools",
+      "Lesson planning",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Electronics",
+      "Leadership",
+      "Research"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0382",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "Lesson planning",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Leadership",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0383",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "General / Not decided",
+    "skills": [
+      "Lesson planning",
+      "Research literacy"
+    ],
+    "interests": [
+      "Research"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0384",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Communication",
+      "Lesson planning",
+      "Research literacy"
+    ],
+    "interests": [
+      "Machines",
+      "Teaching"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0385",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Commerce",
+    "skills": [
+      "Digital teaching tools"
+    ],
+    "interests": [
+      "Leadership"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0386",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Communication",
+      "Lesson planning",
+      "Research literacy"
+    ],
+    "interests": [
+      "Leadership",
+      "Research"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0387",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Communication",
+      "Digital teaching tools",
+      "Lesson planning"
+    ],
+    "interests": [
+      "Leadership",
+      "Research"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0388",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "General / Not decided",
+    "skills": [
+      "Digital teaching tools",
+      "Lesson planning"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0389",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "Python"
+    ],
+    "interests": [
+      "Leadership"
+    ],
+    "goal": "Build websites and apps",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0390",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Design",
+      "Research",
+      "Teaching"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0391",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Engineering",
+    "skills": [
+      "Communication",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Websites"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0392",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Management",
+    "skills": [
+      "Digital teaching tools"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0393",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0394",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [
+      "Research literacy"
+    ],
+    "interests": [
+      "Teaching"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0395",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Management",
+    "skills": [
+      "Communication"
+    ],
+    "interests": [
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0396",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Digital teaching tools"
+    ],
+    "interests": [
+      "Research",
+      "Storytelling",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0397",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Other",
+    "skills": [
+      "Presentation skills"
+    ],
+    "interests": [
+      "Leadership",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0398",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [
+      "Circuit basics"
+    ],
+    "interests": [
+      "Business",
+      "Research",
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0399",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Digital teaching tools",
+      "Presentation skills",
+      "Research literacy"
+    ],
+    "interests": [
+      "Art",
+      "Writing"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0400",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Computer Science / IT",
+    "skills": [],
+    "interests": [
+      "Research",
+      "Social media",
+      "Teaching"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0401",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Circuit basics",
+      "Communication"
+    ],
+    "interests": [
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0402",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [],
+    "interests": [
+      "Leadership",
+      "Teaching"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0403",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [
+      "Communication",
+      "SEO"
+    ],
+    "interests": [
+      "Research",
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0404",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Other",
+    "skills": [],
+    "interests": [
+      "Research"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0405",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Science",
+    "skills": [
+      "Communication",
+      "Digital teaching tools"
+    ],
+    "interests": [
+      "Coding",
+      "Research",
+      "Teaching"
+    ],
+    "goal": "",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0406",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Lesson planning",
+      "Presentation skills",
+      "Prototyping"
+    ],
+    "interests": [
+      "Leadership"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0407",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Other",
+    "skills": [
+      "Digital teaching tools",
+      "Presentation skills"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Technology"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0408",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Digital teaching tools",
+      "Research literacy"
+    ],
+    "interests": [
+      "Leadership",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0409",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Lesson planning",
+      "Marketing analytics",
+      "Presentation skills",
+      "Research literacy"
+    ],
+    "interests": [
+      "Coding",
+      "Leadership",
+      "Research",
+      "Teaching"
+    ],
+    "goal": "",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0410",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Management",
+    "skills": [
+      "Communication"
+    ],
+    "interests": [
+      "Business",
+      "Leadership",
+      "Research",
+      "Teaching"
+    ],
+    "goal": "Start a small enterprise",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0411",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Other",
+    "skills": [],
+    "interests": [
+      "Coding",
+      "Leadership",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0412",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Computer Science / IT",
+    "skills": [
+      "Communication",
+      "Digital teaching tools",
+      "Research literacy"
+    ],
+    "interests": [
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0413",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Commerce",
+    "skills": [
+      "Digital teaching tools",
+      "Presentation skills",
+      "Research literacy"
+    ],
+    "interests": [
+      "Leadership",
+      "Teaching"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0414",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Engineering",
+    "skills": [
+      "Communication",
+      "Digital teaching tools",
+      "Lesson planning"
+    ],
+    "interests": [
+      "Leadership",
+      "Teaching"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0415",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Engineering",
+    "skills": [
+      "Lesson planning",
+      "Research literacy"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Writing"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0416",
+    "source": "synthetic_demo_v1",
+    "education": "Class 10",
+    "stream": "Commerce",
+    "skills": [
+      "Communication",
+      "Lesson planning",
+      "Marketing analytics",
+      "Research literacy"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0417",
+    "source": "synthetic_demo_v1",
+    "education": "Class 12",
+    "stream": "Commerce",
+    "skills": [
+      "Lesson planning",
+      "Research literacy"
+    ],
+    "interests": [
+      "Leadership"
+    ],
+    "goal": "",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0418",
+    "source": "synthetic_demo_v1",
+    "education": "Diploma",
+    "stream": "Management",
+    "skills": [
+      "Presentation skills"
+    ],
+    "interests": [
+      "Leadership",
+      "Research",
+      "Teaching"
+    ],
+    "goal": "Teach and explain concepts",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0419",
+    "source": "synthetic_demo_v1",
+    "education": "Undergraduate",
+    "stream": "Science",
+    "skills": [
+      "Lesson planning"
+    ],
+    "interests": [
+      "Leadership",
+      "Teaching",
+      "Writing"
+    ],
+    "goal": "Improve professional communication",
+    "track": "Communication & Teaching"
+  },
+  {
+    "id": "DEMO-0420",
+    "source": "synthetic_demo_v1",
+    "education": "Graduate",
+    "stream": "Arts / Humanities",
+    "skills": [
+      "Lesson planning",
+      "Research literacy"
+    ],
+    "interests": [
+      "Business",
+      "Research"
+    ],
+    "goal": "Create learning materials",
+    "track": "Communication & Teaching"
+  }
+]

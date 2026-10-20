@@ -1,0 +1,234 @@
+{
+  "profile": {
+    "education": "Class 12",
+    "stream": "Science",
+    "skills": [
+      "Computer basics"
+    ],
+    "interests": [
+      "Coding",
+      "Websites"
+    ],
+    "goal": "Build websites and apps"
+  },
+  "paths": [
+    {
+      "track": "Software Development",
+      "score": 0.5453,
+      "components": {
+        "Decision Tree": 0.1152,
+        "KNN": 1.0,
+        "Cosine Similarity": 0.5168
+      },
+      "matched_interests": [
+        "Coding",
+        "Websites"
+      ],
+      "matched_skills": [
+        "Computer basics"
+      ],
+      "ready_skills": [
+        "Programming logic",
+        "HTML & CSS",
+        "Python",
+        "Git"
+      ],
+      "later_skills": [
+        "JavaScript"
+      ],
+      "later_prerequisites": {
+        "JavaScript": [
+          "HTML & CSS"
+        ]
+      },
+      "courses": [
+        {
+          "id": "python",
+          "title": "Python",
+          "provider": "Kaggle Learn",
+          "kind": "Course",
+          "url": "https://www.kaggle.com/learn/python",
+          "skills": [
+            "Python",
+            "Programming logic"
+          ],
+          "prerequisites": [],
+          "level": "Foundation",
+          "access": "Provider account may be required",
+          "checked": "2026-10-20",
+          "addresses": [
+            "Python",
+            "Programming logic"
+          ]
+        },
+        {
+          "id": "git",
+          "title": "Pro Git: getting started and Git basics",
+          "provider": "Git project",
+          "kind": "Online book",
+          "url": "https://git-scm.com/book/en/v2",
+          "skills": [
+            "Git"
+          ],
+          "prerequisites": [
+            "Computer basics"
+          ],
+          "level": "Foundation",
+          "access": "Start with chapters 1 and 2; not a certified course",
+          "checked": "2026-10-20",
+          "addresses": [
+            "Git"
+          ]
+        },
+        {
+          "id": "web",
+          "title": "Responsive Web Design",
+          "provider": "freeCodeCamp",
+          "kind": "Course",
+          "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+          "skills": [
+            "HTML & CSS",
+            "Accessibility"
+          ],
+          "prerequisites": [],
+          "level": "Foundation",
+          "access": "Check provider for current access and syllabus",
+          "checked": "2026-10-20",
+          "addresses": [
+            "HTML & CSS"
+          ]
+        }
+      ],
+      "project": "Build a personal portfolio website with a working contact-form mockup."
+    },
+    {
+      "track": "Digital Marketing",
+      "score": 0.1329,
+      "components": {
+        "Decision Tree": 0.3394,
+        "KNN": 0.0,
+        "Cosine Similarity": 0.047
+      },
+      "matched_interests": [],
+      "matched_skills": [],
+      "ready_skills": [
+        "Content writing",
+        "Marketing basics",
+        "SEO",
+        "Social media strategy"
+      ],
+      "later_skills": [
+        "Marketing analytics"
+      ],
+      "later_prerequisites": {
+        "Marketing analytics": [
+          "Marketing basics"
+        ]
+      },
+      "courses": [
+        {
+          "id": "marketing",
+          "title": "Digital Marketing Course",
+          "provider": "HubSpot Academy",
+          "kind": "Course",
+          "url": "https://academy.hubspot.com/courses/digital-marketing",
+          "skills": [
+            "Marketing basics",
+            "SEO",
+            "Content writing",
+            "Social media strategy",
+            "Marketing analytics"
+          ],
+          "prerequisites": [],
+          "level": "Foundation",
+          "access": "Provider account may be required; check current terms",
+          "checked": "2026-10-20",
+          "addresses": [
+            "Marketing basics",
+            "SEO",
+            "Content writing",
+            "Social media strategy"
+          ]
+        }
+      ],
+      "project": "Create a sample campaign with audience, three posts and measurable objectives."
+    },
+    {
+      "track": "Design & Creativity",
+      "score": 0.1261,
+      "components": {
+        "Decision Tree": 0.1576,
+        "KNN": 0.0,
+        "Cosine Similarity": 0.2363
+      },
+      "matched_interests": [
+        "Websites"
+      ],
+      "matched_skills": [],
+      "ready_skills": [
+        "Visual design",
+        "User research",
+        "Figma",
+        "Accessibility"
+      ],
+      "later_skills": [
+        "Prototyping"
+      ],
+      "later_prerequisites": {
+        "Prototyping": [
+          "Figma"
+        ]
+      },
+      "courses": [
+        {
+          "id": "figma",
+          "title": "Design basics learning library",
+          "provider": "Figma",
+          "kind": "Learning resource library",
+          "url": "https://www.figma.com/resource-library/design-basics/",
+          "skills": [
+            "Visual design",
+            "User research",
+            "Figma",
+            "Prototyping",
+            "Accessibility"
+          ],
+          "prerequisites": [],
+          "level": "Foundation",
+          "access": "Article library; not a single certified course",
+          "checked": "2026-10-20",
+          "addresses": [
+            "Visual design",
+            "User research",
+            "Figma",
+            "Accessibility"
+          ]
+        },
+        {
+          "id": "web",
+          "title": "Responsive Web Design",
+          "provider": "freeCodeCamp",
+          "kind": "Course",
+          "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+          "skills": [
+            "HTML & CSS",
+            "Accessibility"
+          ],
+          "prerequisites": [],
+          "level": "Foundation",
+          "access": "Check provider for current access and syllabus",
+          "checked": "2026-10-20",
+          "addresses": [
+            "Accessibility"
+          ]
+        }
+      ],
+      "project": "Design and test a three-screen student app prototype with two volunteers."
+    }
+  ],
+  "notes": [
+    "Demo ranking from synthetic profiles. Ranking scores are not model accuracy, aptitude scores or job probabilities.",
+    "Start with a short foundation activity; these paths do not determine your school stream or admission eligibility."
+  ],
+  "data_source": "synthetic_demo_v1"
+}
